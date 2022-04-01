@@ -1,0 +1,16 @@
+/* Add your code here  */
+#myHeader{
+    background-color:lightblue;
+    color:black;
+    padding: 40px;
+    text-align: center;
+}
+
+.city{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+p{
+    font-size:20;
+}
